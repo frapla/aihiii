@@ -1,0 +1,40 @@
+{
+  "Creation_Time": "2024-11-14T15:51:34.227129",
+  "Input": {
+    "HIII": {
+      "data/doe/doe_big_grid_20230922_154140/doe.parquet": "f25be0813b1d8d385b00a9cf7d74242bac880998bc7d05deeac2471508d4bcb3",
+      "data/doe/doe_big_grid_20230922_154140/sim_id_2_id.parquet": "75d414e23e08590172b77f977ba0cfea7f9a0d05ffbe54eac378d3303c92a22f",
+      "data/doe/doe_big_grid_20230922_154140/channels.parquet": "ddd9decfcef2fffc646fbe7bf7bfc0d3d611b1a182762088aa29f5774aab3fb4",
+      "data/doe/doe_big_grid_20230922_154140/dropped_ids.json": "5e441b2f25dd1f962161c0740d27c1022d1259e0501bab3356dc64c2572321ca",
+      "data/doe/doe_big_grid_20230922_154140/injury_criteria.parquet": "fd62f801b73a0933cc4b2e9b78fc0879c7bf5743c5b54c61dbb76243be2bc20c"
+    },
+    "VH": {
+      "data/doe/virthuman/doe.parquet": "150b75d4eefff7a28729685c458a5cb8304aa056a3cd44e55daf1b84bab8fa2a",
+      "data/doe/virthuman/channels.parquet": "792fc0b38350a117be550bb9f893c194fbd2210b3720c8840a313a079d3a5b4e",
+      "data/doe/virthuman/dropped_ids.json": "05069c3d313d703c7e61b0e46c03be0d8ac6f6775c9e424d781173fb1a301447",
+      "data/doe/virthuman/injury_criteria.parquet": "5f206b71d704a77ae4a7fa5a7c8901218e2533281f17be8556358d99427d5435"
+    }
+  },
+  "Output": {
+    "Channels": {
+      "Path": "data/doe/unite_hiii_virthuman/channels.parquet",
+      "Hash": "ee5846e528ac3f6772fa0b3a0ab839548c6bbb528e5ab0e59a847fe32fac98ef"
+    },
+    "Injury Criteria": {
+      "Path": "data/doe/unite_hiii_virthuman/injury_criteria.parquet",
+      "Hash": "0ffa6855fe8a7f9d5fa4bfcbea4b6426341bdb2f307fa6ea9941ca91f71a496d"
+    }
+  },
+  "PERC": {
+    "HIII": [
+      5,
+      95,
+      50
+    ],
+    "VH": [
+      6,
+      96,
+      51
+    ]
+  }
+}

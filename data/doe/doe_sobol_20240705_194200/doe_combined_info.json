@@ -1,0 +1,17 @@
+{
+  "Creation_Time": "2024-07-19 08:18:27.199383",
+  "Input": [
+  {
+    "Path": "doe.parquet",
+    "Hash": "dbdaba35e9d5f5b565d177190fff3be9de7902d27069a08febf5a5f46f3528e1"
+  },
+  {
+    "Path": "doe_2.parquet",
+    "Hash": "554b131ad5d39380dac99c4a106fb58c306b815dcce1f861cc6f3483daef1110"
+  }
+  ],
+  "Output": {
+    "Path": "doe_combined.parquet",
+    "Hash": "88ab7b2f68237518ca1da01b9e20298b326cc78005fcfee69dada30a8dab54f6"
+  }
+}

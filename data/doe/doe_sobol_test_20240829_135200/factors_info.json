@@ -1,0 +1,12 @@
+{
+  "n_samples_total": 768,
+  "factors": {
+	"PAB_M_Scal": [0.8, 1.2], 
+	"PAB_Vent_T": [0.06, 0.14], 
+	"Pulse_Angle": [-10.0, 10.0], 
+	"Pulse_X_Scale": [0.7, 1.3], 
+	"SLL": [1906.0, 2774.0]
+	},
+  "percentiles": [5, 50, 95],
+  "previous": null
+}

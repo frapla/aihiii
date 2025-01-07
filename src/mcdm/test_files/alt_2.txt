@@ -1,0 +1,3 @@
+crit_A=50
+crit_B=30
+crit_C=0
