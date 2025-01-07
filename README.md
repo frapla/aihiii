@@ -10,7 +10,10 @@ The code base was generated during the doctorate studies. The title of the
 dissertation is: 'Accelerated Virtual Evaluation of Restraint System Performance
 for Vehicle Occupants with Varying Body Shapes'.
 
-The required databases were published under DOI 10.5281/zenodo.14610182
+The required databases were published under DOI 10.5281/zenodo.14610182.
+The Results of machine learning under the DOI 10.5281/zenodo.14608924.
+The related Finite Element Simulation were published under the DOIs 10.5281/zenodo.13998073, 10.5281/zenodo.14000052, 10.5281/zenodo.14000145, 10.5281/zenodo.13998257, 10.5281/zenodo.14000200.
+
 
 ## Author
 
