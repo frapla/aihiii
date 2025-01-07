@@ -10,6 +10,8 @@ The code base was generated during the doctorate studies. The title of the
 dissertation is: 'Accelerated Virtual Evaluation of Restraint System Performance
 for Vehicle Occupants with Varying Body Shapes'.
 
+The required databases were published under DOI 10.5281/zenodo.14610182
+
 ## Author
 
 - Franz Plaschkies (Technische Hochschule Ingolstadt)
